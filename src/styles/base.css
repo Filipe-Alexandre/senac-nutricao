@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,400;500;600&family=Nunito:ital,wght@0,600;700&family=Poppins:ital,wght@0,500;600;700&display=swap");
+:root {
+  /* Colors */
+  --bs-black: #000;
+  --bs-white: #fff;
+  --bs-success: #2E7D32;
+  /* verde principal */
+  --bs-success-bg-subtle: #A5D6A7;
+  /* verde suave */
+  --bs-light: #F4F1EC;
+  /* fundo claro */
+  /* Typography */
+  --bs-body-font-family: "Inter", system-ui, -apple-system, sans-serif;
+  --bs-body-color: #000;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-family: "Poppins", system-ui, sans-serif;
+}
+
+strong,
+b,
+a,
+.btn,
+.badge {
+  font-family: "Nunito", system-ui, sans-serif;
+  font-weight: 700;
+}
+
+a {
+  color: var(--bs-success);
+  text-decoration: none;
+}
+a:hover {
+  color: var(--bs-black);
+}
+
+.section-soft {
+  background-color: var(--bs-success-bg-subtle);
+}
+
+.section-light {
+  background-color: var(--bs-light);
+}/*# sourceMappingURL=base.css.map */
