@@ -21,8 +21,6 @@ export default function Header() {
               height="60"
               className="d-inline-block align-text-center"
             />
-
-            Alimentação sustentável
           </a>
           <button className="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <i className="fa-solid fa-bars fs-2"></i>
