@@ -2,7 +2,7 @@ export default function Inicio() {
   return (
     <section id="inicio">
       <div className="glass">
-        <strong>
+        <strong className="fs-1">
           Alimentação que previne
           <hr />
           Guia Prático para o
