@@ -12,16 +12,16 @@ export default function Aproveitamento() {
         <section id="apr-ali" className="container my-5">
             <h2 className="mb-4">Aproveitamento integral dos alimentos</h2>
 
-            <details className="mb-3">
-                <summary className="fw-bold fs-5 mb-2">Por que aproveitar integralmente?</summary>
+            <details className="mb-4" open>
+                <summary className="fw-bold fs-4 mb-2">Por que aproveitar integralmente?</summary>
                 <ul className="mb-0">
                     <li>Reduz desperdício.</li>
                     <li>Aumenta fibras, vitaminas e economia.</li>
                 </ul>
             </details>
 
-            <details className="mb-4">
-                <summary className="fw-bold fs-5 mb-2">Dicas Práticas</summary>
+            <details className="mb-4" open>
+                <summary className="fw-bold fs-4 mb-2">Dicas Práticas</summary>
                 <ul className="mb-0">
                     <li>Talos no feijão (salsinha, couve, brócolis).</li>
                     <li>Cascas em farofas (banana, abóbora, batata).</li>

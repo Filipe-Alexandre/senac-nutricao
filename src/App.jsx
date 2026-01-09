@@ -41,7 +41,7 @@ function App() {
         <ErvasEspeciarias />
         <Aproveitamento />
         <Pancs />
-        <Videos />
+        {/* <Videos /> */}
       </main>
 
       <StartBtn />

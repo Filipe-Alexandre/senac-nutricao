@@ -8,7 +8,7 @@ export default function Footer() {
         <li><a href="#erv-esp">Ervas</a></li>
         <li><a href="#apr-ali">Aproveitando os alimentos</a></li>
         <li><a href="#pancs">PANCs</a></li>
-        <li><a href="#videos">Vídeos</a></li>
+        {/* <li><a href="#videos">Vídeos</a></li> */}
       </ul>
       <img src="/img/logoNutri.png" alt="" />
       <p>Desenvolvido por
