@@ -10,6 +10,7 @@ import Footer from './components/Footer'
 import StartBtn from './components/StartBtn'
 
 import ScrollSpy from 'bootstrap/js/dist/scrollspy'
+import AlimentacaoEquilibrada from './components/AlimentacaoEquilibrada'
 
 function App() {
 
@@ -42,6 +43,7 @@ function App() {
         <Aproveitamento />
         <Pancs />
         {/* <Videos /> */}
+        <AlimentacaoEquilibrada />
       </main>
 
       <StartBtn />
