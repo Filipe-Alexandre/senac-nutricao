@@ -1,7 +1,7 @@
 export default function Videos() {
   return (
         <section id="videos">
-            <iframe src="https://www.youtube.com/embed/CqiAEdrTzVA?si=uKhsk0LG7pCtTcL_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/7J6TK6jMY_E?si=w9QFdIzgSCfktKtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             <h3>Alimentação que previne a OBESIDADE</h3>
             <h4>Tópicos abordados:</h4>
             <ul>
@@ -11,6 +11,7 @@ export default function Videos() {
                 <li>Lanches rápidos que evitam picos de fome.</li>
                 <li>Bebidas que sabotam o peso.</li>
             </ul>
+            {/*  
             <iframe src="https://www.youtube.com/embed/CqiAEdrTzVA?si=uKhsk0LG7pCtTcL_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             <h3>Alimentação que previne a HIPERTENSÃO</h3>
             <h4>Tópicos abordados:</h4>
@@ -30,7 +31,7 @@ export default function Videos() {
                 <li>Alimentos que ajudam a controlar a glicose.</li>
                 <li>Truques para evitar picos de açúcar.</li>
                 <li>Lanches simples e saciantes.</li>
-            </ul>
+            </ul> */}
         </section>
   )
 }

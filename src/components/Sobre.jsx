@@ -21,7 +21,7 @@ export default function Sobre() {
 
                 <span><a href="#pancs">PANCs</a></span>
 
-                {/* <span><a href="#videos">Vídeos</a></span> */}
+                <span><a href="#videos">Vídeos</a></span>
 
                 <span><a href="#alimentacao-equilibrada">Alimentação Equilibrada</a></span>
             </div>
