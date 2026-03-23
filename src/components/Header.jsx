@@ -43,7 +43,10 @@ export default function Header() {
                 <a className="nav-link" onClick={closeNavbar} href="#pancs">PANCs</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link disabled" tabIndex="-1" aria-disabled="false" onClick={closeNavbar} href="#videos">Conteúdo adicional</a>
+                <a className="nav-link" onClick={closeNavbar} href="#videos">Vídeos</a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link disabled" tabIndex="-1" aria-disabled="false" onClick={closeNavbar} href="#palestras">Conteúdo Adicional</a>
               </li>
             </ul>
           </div>

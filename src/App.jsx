@@ -7,6 +7,7 @@ import Aproveitamento from './components/Aproveitamento'
 import Pancs from './components/Pancs'
 import Videos from './components/Videos'
 import Footer from './components/Footer'
+import Palestras from './components/Palestras'
 import StartBtn from './components/StartBtn'
 
 import ScrollSpy from 'bootstrap/js/dist/scrollspy'
@@ -43,6 +44,7 @@ function App() {
         <Aproveitamento />
         <Pancs />
         <Videos />
+        {/* <Palestras /> */}
         <AlimentacaoEquilibrada />
       </main>
 

@@ -52,11 +52,11 @@ export default function Aproveitamento() {
                 {modalAberta && (
                     <div
                         className="modal d-flex justify-content-center align-items-center"
-                        onClick={fecharModal}   // 👈 clique fora fecha
+                        onClick={fecharModal}
                     >
                         <div
                             className="modal-content p-4 rounded shadow"
-                            onClick={(e) => e.stopPropagation()} // 👈 bloqueia clique interno
+                            onClick={(e) => e.stopPropagation()}
                         >
                             <h2>{receitasData.find(r => r.id === modalAberta).titulo}</h2>
 

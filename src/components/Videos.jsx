@@ -11,8 +11,8 @@ export default function Videos() {
                 <li>Lanches rápidos que evitam picos de fome.</li>
                 <li>Bebidas que sabotam o peso.</li>
             </ul>
-            {/*  
-            <iframe src="https://www.youtube.com/embed/CqiAEdrTzVA?si=uKhsk0LG7pCtTcL_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+             
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/pBUqf7eEVnQ?si=R0JGihxyy9IHXHgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             <h3>Alimentação que previne a HIPERTENSÃO</h3>
             <h4>Tópicos abordados:</h4>
             <ul>
@@ -22,6 +22,7 @@ export default function Videos() {
                 <li>Como ler rótulos.</li>
                 <li>Bebidas e hábitos que aumentam a pressão.</li>
             </ul>
+            {/* 
             <iframe src="https://www.youtube.com/embed/CqiAEdrTzVA?si=uKhsk0LG7pCtTcL_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             <h3>Alimentação que previne o DIABETES</h3>
             <h4>Tópicos abordados:</h4>
