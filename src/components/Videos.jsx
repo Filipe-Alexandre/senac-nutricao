@@ -23,7 +23,7 @@ export default function Videos() {
                 <li>Bebidas e hábitos que aumentam a pressão.</li>
             </ul>
             
-            <iframe src="https://youtu.be/GXwQFBYjQ8A?si=38vt2Wy0I6pMOhjh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/GXwQFBYjQ8A?si=Bx6d2jvvEdqt23xS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             <h3>Alimentação que previne o DIABETES</h3>
             <h4>Tópicos abordados:</h4>
             <ul>
