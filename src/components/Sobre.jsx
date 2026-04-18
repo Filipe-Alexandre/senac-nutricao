@@ -3,7 +3,7 @@ export default function Sobre() {
         <section id="sobre">
             <div className="intro fs-2">
                 <p className="text-center">
-                    A alimentação tem um papel decisivo na prevenção da <strong>obesidade, hipertensão e diabete</strong>.
+                    A alimentação tem um papel decisivo na prevenção da <strong>obesidade, hipertensão e diabetes</strong>.
                     Pequenas escolhas no dia a dia - como usar mais ervas naturais, reduzir sal e açúcar, e incluir
                     alimentos integrais e variados - ajudam a controlar o peso, pressão e glicemia.
                 </p>

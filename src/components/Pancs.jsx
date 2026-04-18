@@ -5,8 +5,8 @@ export default function Pancs() {
         <section id="pancs">
             <h2>Conheça as Pancs</h2>
             <h3>O que são PANCs?</h3>
-            <p>São plantas comestíveis pouco usadas no dia a dia, mas muito ricas em fibras, vitaminas, minerais e
-                antioxidantes.</p>
+            
+            <p>As PANCs (Plantas Alimentícias Não Convencionais) são espécies nutritivas e pouco conhecidas que, curiosamente, muitas vezes crescem de forma espontânea no fundo do quintal, sem necessidade de cultivo específico</p>
             <h3>Sustentabilidade</h3>
             <p>As PANCs são sustentáveis porque crescem facilmente, exigem poucos recursos e preservam a
                 biodiversidade.</p>
